@@ -12,4 +12,4 @@ def number_buckets(num):
         else:
             return
         
-number_buckets(2)
+number_buckets(5)
